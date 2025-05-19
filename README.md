@@ -7,7 +7,6 @@ I'm a **3rd-year Computer Engineering student** passionate about software develo
 ## 🔥 What I'm Learning
 - **Android Development** with **Kotlin**
 - **XML** for UI design
-- **Jetpack Compose** for modern UI development
 - **Firebase** for backend services
   
 ---
