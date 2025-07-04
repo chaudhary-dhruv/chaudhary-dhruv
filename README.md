@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CHAUDHRY DHURV  
 ### 🛠️ Aspiring Android Developer | 🖥️ 3rd Year Computer Engineering Student  
 
-I'm a **3rd-year Computer Engineering student** passionate about software development and currently diving deep into **Android development**. I'm a beginner but eager to learn and build exciting projects!
+I'm a **4th-year Computer Engineering student** passionate about software development and currently diving deep into **Android development**. I'm a beginner but eager to learn and build exciting projects!
 
 ---
 ## 🔥 What I'm Learning
