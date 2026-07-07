@@ -60,6 +60,8 @@ MySQL
 
 ---
 
+![snake gif](https://github.com/chaudhary-dhruv/chaudhary-dhruv/blob/output/github-contribution-grid-snake.gif)
+
 ## ⭐ Featured Projects
 
 ### 🎓 Student Performance Prediction
@@ -118,7 +120,5 @@ Email
 
 Portfolio (Coming Soon)
 
-<p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Snake Animation" />
-</p>
+
 
