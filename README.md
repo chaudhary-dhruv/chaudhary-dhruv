@@ -117,3 +117,8 @@ LinkedIn
 Email
 
 Portfolio (Coming Soon)
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Snake Animation" />
+</p>
+
