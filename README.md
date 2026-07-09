@@ -114,9 +114,9 @@ RAG
 
 ## 📫 Connect With Me
 
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/dhruv-chaudhary-8026a3258/
 
-Email
+Email : dhruv.chaudhary.36549@gmail.coml
 
 Portfolio (Coming Soon)
 
